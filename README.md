@@ -36,6 +36,7 @@ print(covfefe_palette(1))
 ```
 
 <img src="figure/covfefe_images/it_is_what_it_is_full.jpeg" title="" alt="" width="580" />
+<img src="figure/covfefe_palette1-1.png" title="" alt="" width="580" />
 
 ```{r, heatmap, fig.height = 3}
 library(ggplot2)
@@ -47,3 +48,5 @@ ggplot(heatmap, aes(x = X2, y = X1, fill = value)) +
    scale_y_discrete(expand = c(0, 0)) +
    coord_equal()
 ```
+
+<img src="figure/heatmap-1.png" title="" alt="" width="580" />
