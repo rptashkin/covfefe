@@ -1,0 +1,15 @@
+Package: covfefe
+Title: A covfefe Palette Generator
+Description: Palettes that will have covfefe of 45's blunders
+Version: 0.1
+Authors@R: c(person("Ryan", "Ptashkin", role = c("aut", "cre"),
+    email = "r.ptashkin@gmail.com"))
+Depends:
+    R (>= 3.0)
+License: MIT + file LICENSE
+LazyData: true
+Suggests:
+    ggplot2
+URL: https://github.com/rptashkin/covfefe
+BugReports: https://github.com/rptashkin/covfefe/issues
+RoxygenNote: 7.0.2
