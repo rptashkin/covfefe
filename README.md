@@ -3,19 +3,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-```{r, echo = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "figure/",
-  fig.height = 1
-)
-```
-
 # Covfefe Palettes
 
 Thank you github.com/dill/beyonce for the framework of this palette generator. 
-Thank you Beyoncé for you color inspo. 
+Thank you Beyoncé for your color inspo. 
 
 Please Vote in November!.
 

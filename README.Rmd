@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 # Covfefe Palettes
 
 Thank you github.com/dill/beyonce for the framework of this palette generator. 
-Thank you Beyoncé for you color inspo. 
+Thank you Beyoncé for your color inspo. 
 
 Please Vote in November!.
 
