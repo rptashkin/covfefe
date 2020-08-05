@@ -35,7 +35,7 @@ library(covfefe)
 print(covfefe_palette(1))
 ```
 
-<img src="figure/covfefe_images/it_is_what_it_is.jpeg" title="" alt="" width="580" />
+<img src="figure/covfefe_images/it_is_what_it_is_full.jpeg" title="" alt="" width="580" />
 
 ```{r, heatmap, fig.height = 3}
 library(ggplot2)
